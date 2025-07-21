@@ -32,7 +32,7 @@ This GitHub profile reflects my hands-on learning journey. I'm actively working 
 ### 🎵 [Spotify Clone](https://github.com/Nandinii-05/spotify-clone)  
 A responsive frontend-only clone of Spotify built using **HTML** and **CSS**. Designed to practice layout, positioning, and media queries.
 
-### ✅ [To-Do List App](https://github.com/Nandinii-05/todo-app) *(Coming Soon)*  
+### ✅ [To-Do List App](https://github.com/Nandinii-05/to-do-list-app)
 A simple JavaScript-based task manager using **DOM manipulation** and **localStorage**. Focused on interactivity and logic building.
 
 ---
